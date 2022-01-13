@@ -10,4 +10,4 @@ end
 
 # felippe = person.new
 # felippe.talk
-# felippe.walk
+# felippe.walklib
